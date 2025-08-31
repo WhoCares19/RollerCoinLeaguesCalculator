@@ -3,7 +3,7 @@ These .py files are for calculating in Which League you belong and roughly how m
 There are two primary ways you can automatically input the Network power datas:
 
 1. Paste Network Data - Paste the values old and trusted way by selecting them and pasting in appropriate box.
-2. Paste Network Screenshot - Take a screenshot of the Network Power and pasting it in the appropriate box.
+2. Paste Network Screenshot - Take a screenshot of the Network Power and pasting it in the appropriate box (be warned, this is resource heavy as it analyzes the whole pasted picture and might slow down your pc, crash the calculator OR crash(?) your pc).
 3. You Can also manually paste the appropriate network power one by one if you wish to.
 
 By default when the Calculator starts, Paste Network Data is shown.
