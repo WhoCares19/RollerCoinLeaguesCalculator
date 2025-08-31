@@ -10,7 +10,7 @@ By default when the Calculator starts, Paste Network Data is shown.
 
 If any error is made, you can change to correct values in appropriate place 
 
-to run these .py files you will need these models:
+to run these .py files you will need these models (these are the ones I used):
 
 PyQt5==5.15.11
 
@@ -27,5 +27,6 @@ paddleocr==3.2.0
 More or less detailed explanation:
 ![test!](https://raw.githubusercontent.com/WhoCares19/RollerCoinLeaguesCalculator/refs/heads/main/How%20to%20use%20Calculator.png)
 
+Should Work fine on Windows, other OS's might have errors.
 
-
+If any errors, tough luck.
