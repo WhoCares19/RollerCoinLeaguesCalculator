@@ -1,0 +1,7 @@
+PyQt5
+Pillow
+numpy
+requests
+paddlepaddle
+paddleocr
+pyqtgraph
